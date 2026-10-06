@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mach-base": {
+      "type": "http",
+      "url": "https://api.mach.gallery/mcp"
+    }
+  }
+}
