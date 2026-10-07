@@ -1,5 +1,7 @@
 # MACH Base
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/thealiphant/mach-base)
+
 MACH Base is a hosted remote MCP server for fast, low-cost Base mainnet data for autonomous agents.
 
 - MCP endpoint: https://api.mach.gallery/mcp
