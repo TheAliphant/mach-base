@@ -2,9 +2,9 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.TheAliphant/mach-base",
   "title": "MACH Base",
-  "description": "17 Base mainnet data capabilities for agents over Streamable HTTP MCP. Pay per call in USDC via x402; no API key.",
+  "description": "Investigate Base transactions, check wallet funds and contracts. Read-only MCP. USDC via x402.",
   "websiteUrl": "https://api.mach.gallery/docs/",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "remotes": [
     {
       "type": "streamable-http",
